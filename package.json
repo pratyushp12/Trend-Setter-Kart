@@ -1,0 +1,23 @@
+{
+  "name": "Trend-Setter-Cart",
+  "version": "1.0.0",
+  "description": "This is the best online shoppping Website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratyushp12/Trend-Setter-Kart.git"
+  },
+  "keywords": [],
+  "author": "Pratyush Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratyushp12/Trend-Setter-Kart/issues"
+  },
+  "homepage": "https://github.com/pratyushp12/Trend-Setter-Kart#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
